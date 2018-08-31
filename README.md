@@ -1,6 +1,10 @@
 # Wundernuts
 
-Wundernut is a concept, which we have created to activate coders with fun brain puzzles. By them, our aim is to find good developers to work with us. Our Ville Peurala tells you more of the story on [this video](https://vimeo.com/154957777) (in Finnish).
+Wundernut is a coding challenge that we publish few times a year rewarding the winner of it at the end. Made completely by our employees, it’s a brainy puzzle for us each time too! But we like to put our brain into thinking how to activate and challenge fellow coders with a new Wundernut to crack each time!
+
+How did we get the idea of Wundernut in the first place? Read the story behind it: https://medium.com/wunderdog-culture/the-wundernut-story-e9f4a3e321f9
+
+Here all past Wundernuts collected:
 
 **Wundernuts in order**
 
