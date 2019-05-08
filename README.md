@@ -17,4 +17,4 @@ Here all past Wundernuts collected:
 7. [Brilliant cut](https://github.com/wunderdogsw/wunderpahkina-vol7/) Your task is to cut the given raw material of gemstones in a way that provides the biggest possible profit. *Fall 2017*
 8. [The shortest edition](https://github.com/wunderdogsw/wunderpahkina-vol8/) Create compressed version of Mr. Kilpi's classic novel Alastaron Salissa. *Winter 2017-2018*
 9. [Back to school](https://github.com/wunderdogsw/wunderpahkina-vol9) Back in the days our grandparents kept themselves entertained at school with this game and now we’ve transformed it into a Wundernut! So, take out a grid paper and start filling it in according to the rules. *Fall 2018*
-10. [Doggolang](https://github.com/wunderdogsw/wunderpahkina-vol10) Create an interpreter for new programming language deviced by the clever dogs. *Spring 2019*
+10. [Doggolang](https://github.com/wunderdogsw/wunderpahkina-vol10) Create an interpreter for a new programming language deviced by the clever dogs. *Spring 2019*
