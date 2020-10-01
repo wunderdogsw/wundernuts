@@ -13,8 +13,8 @@ Here all past Wundernuts collected:
 3. [The Megakolmio Awakens](https://github.com/wunderdogsw/wunderpahkina-vol3) Release the Force and program an algorithm, which forms a grand Megakolmio out of Minikolmios! *Fall 2015*
 4. [Wundercube](https://github.com/wunderdogsw/wunderpahkina-vol4): Find all Finnish words hidden inside this letter cube! *Spring 2016*
 5. [Secret message](https://github.com/wunderdogsw/wunderpahkina-vol5): Find a secret message from a picture using some pixel magic! *Winter 2016*
-6. [The biggest square](https://github.com/wunderdogsw/wunderpahkina-vol6/) Help Thip and Tale to build as big nut bank as possible! *Spring 2017*
+6. [The biggest square](https://github.com/wunderdogsw/wunderpahkina-vol6/) Help Thip and Tale to build as big a nut bank as possible! *Spring 2017*
 7. [Brilliant cut](https://github.com/wunderdogsw/wunderpahkina-vol7/) Your task is to cut the given raw material of gemstones in a way that provides the biggest possible profit. *Fall 2017*
-8. [The shortest edition](https://github.com/wunderdogsw/wunderpahkina-vol8/) Create compressed version of Mr. Kilpi's classic novel Alastaron Salissa. *Winter 2017-2018*
+8. [The shortest edition](https://github.com/wunderdogsw/wunderpahkina-vol8/) Create a compressed version of Mr. Kilpi's classic novel Alastaron Salissa. *Winter 2017-2018*
 9. [Back to school](https://github.com/wunderdogsw/wunderpahkina-vol9) Back in the days our grandparents kept themselves entertained at school with this game and now we’ve transformed it into a Wundernut! So, take out a grid paper and start filling it in according to the rules. *Fall 2018*
 10. [Doggolang](https://github.com/wunderdogsw/wunderpahkina-vol10) Create an interpreter for a new programming language deviced by the clever dogs. *Spring 2019*
