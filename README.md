@@ -2,6 +2,12 @@
 
 Wundernut is a coding challenge that we publish every now and then rewarding the winner of it at the end. Made completely by our employees, it’s a brainy puzzle for us each time too! But we like to put our brain into thinking how to activate and challenge fellow coders with a new Wundernut to crack each time!
 
+
+#### 👉 **Crack our current Wundernut!** 
+You have until March 11th to solve the challenge. Find out more here: https://www.wunderdog.fi/wundernut
+
+---
+
 How did we get the idea of Wundernut in the first place? Read the story behind it: https://medium.com/wunderdog-culture/the-wundernut-story-e9f4a3e321f9
 
 Here all past Wundernuts collected:
