@@ -1,10 +1,6 @@
 # Wundernuts
 
-Wundernut is a coding challenge that we publish every now and then rewarding the winner of it at the end. Made completely by our employees, it’s a brainy puzzle for us each time too! But we like to put our brain into thinking how to activate and challenge fellow coders with a new Wundernut to crack each time!
-
-
-#### 👉 **Crack our current Wundernut!** 
-You have until March 11th to solve the challenge. Find out more here: https://www.wunderdog.fi/wundernut
+Wundernut is a coding challenge that we publish every now and then, rewarding the winner at the end. Created by our employees, it’s a brainy puzzle for us each time too! But we like to put our brain into thinking how to activate and challenge fellow coders with a new Wundernut to crack each time!
 
 ---
 
