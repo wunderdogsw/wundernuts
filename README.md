@@ -21,3 +21,4 @@ Here all past Wundernuts collected:
 9. [Back to school](https://github.com/wunderdogsw/wundernut-vol9) Back in the days our grandparents kept themselves entertained at school with this game and now we’ve transformed it into a Wundernut! So, take out a grid paper and start filling it in according to the rules. *Fall 2018*
 10. [Doggolang](https://github.com/wunderdogsw/wundernut-vol10) Create an interpreter for a new programming language deviced by the clever dogs. *Spring 2019*
 11. [What's that noise?](https://github.com/wunderdogsw/wundernut-vol11) Decipher an audio message encoded in morse code. *Spring 2022*
+12. [Wunderdog and the Encrypted Parchment](https://github.com/wunderdogsw/wundernut-vol12) Decrypt the secret spell parchment. *Autumn 2022*
